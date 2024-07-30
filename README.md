@@ -6,3 +6,5 @@ This repository will track my learning and applications from Codebasics  Youtube
 - Lesson2 (Activation Functions)
 - Lesson3 (Loss Functions)
 - Lesson4 (Gradient Descent)
+- Lesson5 (Building a Neural Network)
+- Lesson6 (GD/SDG/MGD)
