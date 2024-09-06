@@ -9,4 +9,5 @@ This repository will track my learning and applications from Codebasics  Youtube
 - Lesson5 (Building a Neural Network)
 - Lesson6 (GD/SDG/MGD)
 - Lesson7 (Tensor Board)
-- MNIST Image Clssification
+- Lesson8 (MNIST Image Clssification)
+- Lesson9 (Customer Churn Prediction)
