@@ -12,3 +12,4 @@ This repository will track my learning and applications from Codebasics  Youtube
 - Lesson8  (MNIST Image Clssification)
 - Lesson9  (Customer Churn Prediction)
 - Lesson10 (Dropout Regularization)
+- Lesson11 (Handling Imbalanced Dataset)
