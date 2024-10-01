@@ -13,3 +13,4 @@ This repository will track my learning and applications from Codebasics  Youtube
 - Lesson9  (Customer Churn Prediction)
 - Lesson10 (Dropout Regularization)
 - Lesson11 (Handling Imbalanced Dataset)
+- Lesson12 (Image Classification with CNN)
