@@ -14,3 +14,6 @@ This repository will track my learning and applications from Codebasics  Youtube
 - Lesson10 (Dropout Regularization)
 - Lesson11 (Handling Imbalanced Dataset)
 - Lesson12 (Image Classification with CNN)
+- Lesson13 (Data Augmentation)
+- Lesson14 (Transfer Learning)
+- Lesson15 (Tensorflow Input Pipeline)
