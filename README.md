@@ -17,3 +17,4 @@ This repository will track my learning and applications from Codebasics  Youtube
 - Lesson13 (Data Augmentation)
 - Lesson14 (Transfer Learning)
 - Lesson15 (Tensorflow Input Pipeline)
+- Lesson16 (Supervised Word Embedding)
